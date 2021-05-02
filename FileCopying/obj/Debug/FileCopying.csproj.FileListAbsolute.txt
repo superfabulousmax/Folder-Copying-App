@@ -1,0 +1,15 @@
+C:\Users\sinea\source\repos\FileCopying\FileCopying\bin\Debug\FileCopying.exe.config
+C:\Users\sinea\source\repos\FileCopying\FileCopying\bin\Debug\FileCopying.exe
+C:\Users\sinea\source\repos\FileCopying\FileCopying\bin\Debug\FileCopying.pdb
+C:\Users\sinea\source\repos\FileCopying\FileCopying\obj\Debug\FileCopying.csprojAssemblyReference.cache
+C:\Users\sinea\source\repos\FileCopying\FileCopying\obj\Debug\FileCopying.Properties.Resources.resources
+C:\Users\sinea\source\repos\FileCopying\FileCopying\obj\Debug\FileCopying.csproj.GenerateResource.cache
+C:\Users\sinea\source\repos\FileCopying\FileCopying\obj\Debug\FileCopying.csproj.CoreCompileInputs.cache
+C:\Users\sinea\source\repos\FileCopying\FileCopying\obj\Debug\FileCopying.exe
+C:\Users\sinea\source\repos\FileCopying\FileCopying\obj\Debug\FileCopying.pdb
+C:\Users\sinea\source\repos\FileCopying\FileCopying\bin\Debug\CopyingApi.dll
+C:\Users\sinea\source\repos\FileCopying\FileCopying\bin\Debug\CopyingApi.pdb
+C:\Users\sinea\source\repos\FileCopying\FileCopying\bin\Debug\CopyingApi.dll.config
+C:\Users\sinea\source\repos\FileCopying\FileCopying\obj\Debug\FileCopying.csproj.CopyComplete
+C:\Users\sinea\source\repos\FileCopying\FileCopying\obj\Debug\FileCopying.CopyingPopup.resources
+C:\Users\sinea\source\repos\FileCopying\FileCopying\obj\Debug\FileCopying.MainForm.resources

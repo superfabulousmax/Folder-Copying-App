@@ -1,0 +1,7 @@
+C:\Users\sinea\source\repos\FileCopying\Api\CopyingApi\CopyingApi\obj\Debug\CopyingApi.csproj.CoreCompileInputs.cache
+C:\Users\sinea\source\repos\FileCopying\Api\CopyingApi\CopyingApi\bin\Debug\CopyingApi.dll.config
+C:\Users\sinea\source\repos\FileCopying\Api\CopyingApi\CopyingApi\bin\Debug\CopyingApi.dll
+C:\Users\sinea\source\repos\FileCopying\Api\CopyingApi\CopyingApi\bin\Debug\CopyingApi.pdb
+C:\Users\sinea\source\repos\FileCopying\Api\CopyingApi\CopyingApi\obj\Debug\CopyingApi.dll
+C:\Users\sinea\source\repos\FileCopying\Api\CopyingApi\CopyingApi\obj\Debug\CopyingApi.pdb
+C:\Users\sinea\source\repos\FileCopying\Api\CopyingApi\CopyingApi\obj\Debug\CopyingApi.csprojAssemblyReference.cache
